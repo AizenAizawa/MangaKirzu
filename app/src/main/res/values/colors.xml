@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="white">#E0E0E0</color> <!-- Putih yang lebih redup -->
+    <color name="black">#121212</color> <!-- Hitam pekat -->
+    <color name="primaryColor">#2E2B4F</color> <!-- Biru gelap keunguan -->
+    <color name="secondaryColor">#3C4564</color> <!-- Biru gelap dengan nuansa abu-abu -->
+    <color name="colorbackground">#23283E</color> <!-- Abu-abu kebiruan gelap -->
+    <color name="whitee">#D1C4A9</color> <!-- Warna krem lembut untuk kontras -->
 </resources>
